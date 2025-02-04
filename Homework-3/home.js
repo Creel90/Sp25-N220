@@ -1,9 +1,13 @@
-const radius = 5; //I chose const becuase it cannot be reassigned or redecaalared and since we know the radius is 5 we want it to stay that way.
+const radius = 5; 
 
-let area = Math.PI * Math.pow(5,2); //I chose let because it can be reassigned or redeclared and since we are wanting the area and perimeter to provide an answer to our equation. I used Math.PI because we needed to take PI times radius to the 2nd power. And I used Math.pow through w3 schools to get r^2 to work.
+let area = Math.PI * Math.pow(5,2); 
 
-let perimeter = 2 * Math.PI * radius; //Same reason I chose let for area is the reason I chose let here for the perimeter.
+let perimeter = 2 * Math.PI * radius; 
 
 console.log("The area of the circle is:", area);
 
 console.log("The perimeter of the circle is:", perimeter);
+
+//I used const for the radius as it is not a value that will change.
+
+//I used let for the area and perimeter as it was going to be changing the value due to the mathmatical equation.

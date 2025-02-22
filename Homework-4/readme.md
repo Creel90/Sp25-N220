@@ -9,8 +9,8 @@
 
 ### Live Links
 
-[Home Page](https://creel90.github.io/Sp25-N220/Homework-4/index.html)
+[Instrument Lessons Page](https://creel90.github.io/Sp25-N220/Homework-4/index.html)
 
-[Login Page](https://creel90.github.io/Sp25-N220/Homework-4/gallery.html)
+[Image Gallery Page](https://creel90.github.io/Sp25-N220/Homework-4/gallery.html)
 
-[Store Page](https://creel90.github.io/Sp25-N220/Homework-4/score.html)
+[Test Scores Page](https://creel90.github.io/Sp25-N220/Homework-4/scores.html)

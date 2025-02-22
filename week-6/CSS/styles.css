@@ -1,0 +1,17 @@
+/* Style Nav*/
+
+nav{
+    background-color: brown;
+    height: 50px;
+
+    display: flex; //scrunches them together
+    align-items: center; //puts them in middle
+    gap: 40px; //puts gap between them
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 4px 8px 4px 8px;
+}

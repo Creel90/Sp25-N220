@@ -13,11 +13,27 @@ h1, h2 {
     font-size: larger;
 }
 
-ul {
+li {
+
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
 
 }
 
-li {
+button {
 
-    
+    background-color: blue;
+    color: beige;
+}
+
+button:hover {
+    background-color: bisque;
+}
+
+table {
+
+    background-color: aliceblue;
 }

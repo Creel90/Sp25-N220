@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home Page]()
+[Home Page](https://creel90.github.io/Sp25-N220/midterm/index.html)
